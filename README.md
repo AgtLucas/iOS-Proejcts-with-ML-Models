@@ -18,6 +18,8 @@ Almost machine learning framework have been used similar flow. **Convert** my mo
 
 Once prepared a compatible model, you can run inference by using machine learning framework(like Core ML or ML Kit..). You need **preprocess/postprocess** before/after inference on your project.
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSN8znAaX2wOyfy2-ZlhZXjSI4VUGAzRWo3quD7amg468dHF5u4lHjBuI8SdI0wQie2Y5Wsg7_MaiRC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="2560" height="1469" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Example projects using various machine learning model
 
 ### 1. MobileNet
